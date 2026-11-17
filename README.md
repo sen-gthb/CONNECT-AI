@@ -23,7 +23,14 @@ Modules are made up of short lessons. Most lessons include a video of about 3 to
 
 ## Approach
 
-CONNECT-AI is built with faculty, for faculty, using human-centered design. Module 1 follows the AI-ABCs framework (Kobeissi, Santa Maria, & Park, 2025) and adds CONNECT-AI's own elements, including the four families of AI: symbolic, machine learning, generative, and agentic. Throughout, the course emphasizes that nurses belong at every stage of AI, from design to evaluation (Ronquillo et al., 2021).
+CONNECT-AI is built with faculty, for faculty, using human-centered design. It draws on several published frameworks:
+
+- **AI-ABCs** (Kobeissi, Santa Maria, & Park, 2025): the content framework for Module 1. CONNECT-AI adds its own elements, including the four families of AI: symbolic, machine learning, generative, and agentic.
+- **AI literacy constructs** (Wang, Rau, & Yuan, 2023): awareness, use, evaluation, and ethics, as adapted for nursing leadership by Chamblee (2026). CONNECT-AI defines these for nurse faculty and uses them to shape and evaluate the course.
+- **Stanford Teaching Commons AI literacy framework** (n.d.): informs Module 2 and Module 3.
+- **CLEAR framework** (Lo, 2023): guides the prompting lesson in Module 2.
+
+Throughout, the course emphasizes that nurses belong at every stage of AI, from design to evaluation (Ronquillo et al., 2021).
 
 ## Who it's for
 
@@ -39,6 +46,14 @@ Seneca Moore, PhD, RN, College of Nursing, University of Utah
 
 ## References
 
+Chamblee, T. B. (2026). AI literacy as a leadership competency: Preparing nurse executives for artificial intelligence governance. *Journal of Nursing Administration, 56*(11), 643–649. https://doi.org/10.1097/NNA.0000000000001787
+
 Kobeissi, M. M., Santa Maria, D. M., & Park, J. I. (2025). Artificial intelligence 101: Building literacy with the AI-ABCs framework. *Nursing Outlook, 73*, 102445. https://doi.org/10.1016/j.outlook.2025.102445
 
+Lo, L. S. (2023). The CLEAR path: A framework for enhancing information literacy through prompt engineering. *Journal of Academic Librarianship, 49*(4), 102720. https://doi.org/10.1016/j.acalib.2023.102720
+
 Ronquillo, C., Peltonen, L.-M., Pruinelli, L., et al. (2021). Artificial intelligence in nursing: Priorities and opportunities from an international invitational think-tank of the Nursing and Artificial Intelligence Leadership Collaborative. *Journal of Advanced Nursing, 77*(9), 3707–3717. https://doi.org/10.1111/jan.14855
+
+Stanford Teaching Commons. (n.d.). Understanding AI literacy. *Artificial Intelligence Teaching Guide*. https://teachingcommons.stanford.edu/teaching-guides/artificial-intelligence-teaching-guide/understanding-ai-literacy
+
+Wang, B., Rau, P.-L. P., & Yuan, T. (2023). Measuring user competence in using artificial intelligence: Validity and reliability of artificial intelligence literacy scale. *Behaviour & Information Technology, 42*(9), 1324–1337. https://doi.org/10.1080/0144929X.2022.2072768
